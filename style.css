@@ -27,10 +27,7 @@ form{
     border-radius: 4px;
     border: 1px solid gray;
 }
-.text:active{
-    background-color: red;
-}
-.text:active{
+.text:focus{
     animation-name: input;
     animation-duration: 2s;
     animation-iteration-count: infinite;
